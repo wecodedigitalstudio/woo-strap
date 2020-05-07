@@ -5,6 +5,7 @@
     "author": "We-Code Digital Studio - Software Development",
     "license": "ISC",
     "dependencies": {
+        "@woocommerce/woocommerce-rest-api": "^1.0.1",
         "bootstrap": "^4.4.1"
     }
 }
