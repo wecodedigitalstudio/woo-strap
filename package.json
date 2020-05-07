@@ -1,0 +1,10 @@
+{
+    "name": "woostrap",
+    "version": "0.1",
+    "description": "WooStrap Starter Theme",
+    "author": "We-Code Digital Studio - Software Development",
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap": "^4.4.1"
+    }
+}
