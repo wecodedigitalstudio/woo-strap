@@ -1,4 +1,4 @@
-## WooStrap
+# WooStrap
 Simple WordPress + WooCommerce starter theme
 
 Setup environment:
