@@ -14,7 +14,6 @@
 
 </head>
 
-<!-- Form contatti -->
 <?php include TEMPLATEPATH . '/shared/navbar.php'; ?>
 
 <body>
